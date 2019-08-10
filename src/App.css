@@ -1,3 +1,72 @@
+
+.btns{
+        padding: 0px;
+    font-size: 20px;
+    border-radius: 0px;
+    display:grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+     }
+     
+     .calckey{
+      
+      margin:0px;  
+      padding:0px; 
+      border-radius: 0px; 
+      box-sizing: border-box;
+     }
+     
+ /* .btn btn-danger{
+    padding: 10px 10px;
+  font-size: 20px;
+  border-radius: 0px;
+  }
+  */
+  .description {
+    color:white;
+  }
+  .screen {
+    text-align:right;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 0px;
+    width : 100%;
+    padding: 0px;
+    background-color:black;
+    
+  }
+.calc{
+  margin: 50px 200px;
+  padding: 50px;
+  max-width: 500px;
+  text-align: center;
+  
+}
+.abc{
+  
+    font-size: 20px;
+    border-radius: 0px;
+    width : 100%;
+    padding: 0px;
+    display:grid;
+      grid-template-columns: 2fr 1fr 1fr;
+  
+}
+
+/*
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+*/
+.btn btn-danger
+{
+  margin:0px;  
+      padding:0px; 
+      border-radius: 0px; 
+      box-sizing: border-box
+}
+
 .App {
   text-align: center;
 }
